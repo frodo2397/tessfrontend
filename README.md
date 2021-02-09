@@ -6,7 +6,7 @@ This is a frontend that provides a graphical user interface and easy paralleliza
 
 I created this for for a research project in which I needed to
 automate reading and information extraction of a large historical
-French-language document ( ref).  This was technically challenging for
+[French-language document](https://gallica.bnf.fr/ark:/12148/bpt6k5499951n/f17.item).  This was technically challenging for
 the OCR side, since the document had been printed with a very small
 font.  A human can read the resulting scan with some effort, but all
 existing OCR tools that I checked had a fairly high error rate.
